@@ -3,4 +3,9 @@ https://webrtc.github.io/samples/src/content/devices/input-output/
 https://github.com/webrtc/samples/tree/gh-pages/src/content/devices/input-output  
 SourceCode  
 https://webrtc.github.io/samples/src/content/peerconnection/pc1/  
-WebRTC samples Peer connection
+WebRTC samples Peer connection  
+<hr>
+How to Configurate NewTek NDI plugin for OBS Studio 2021  
+https://www.youtube.com/watch?v=tSyFgH6z40Q  
+
+
