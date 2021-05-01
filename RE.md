@@ -8,7 +8,7 @@ WebRTC samples Peer connection
 How to Configurate NewTek NDI plugin for OBS Studio 2021<br>
 https://www.youtube.com/watch?v=tSyFgH6z40Q<br>
 Optimizing NDI for Video Production and Streaming<br>
-https://www.youtube.com/watch?v=z3dlg7p5Lfg&t=250s  
-Larix Broadcaster  
-https://apps.apple.com/us/app/larix-broadcaster/id1042474385  
+https://www.youtube.com/watch?v=z3dlg7p5Lfg&t=250s<br>
+Larix Broadcaster<br>
+https://apps.apple.com/us/app/larix-broadcaster/id1042474385<br>
 
